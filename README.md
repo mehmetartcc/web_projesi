@@ -1,13 +1,16 @@
-# web_projesi
+# Şehir Tanıtımı (Aksaray)
+
 ## proje açıklaması
-bu proje, kullanıcıların görevlerini yönetmesini sağlayan bir web uygulamasıdır.
+Aksarayın seçtiğiniz ilçesinin istatistiklerini tanıtan bir web sitesidir.
+
 ## hedef kullanıcılar
-öğrenciler
+Herkes
+
 ## temel özellikler
-kullanıcı kayıt/girişi
-Görev ekleme
-Görev silme
-Görev güncelleme
+Veritabanı bağlantılı dinamik içerik
+İlçe istatistiklerini görüntüleme
+Dinamik Veri Listeleme
+
 ## kullanılan teknolojiler
 HTML
 CSS
