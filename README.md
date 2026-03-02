@@ -1,7 +1,7 @@
-# Şehir Tanıtımı (Aksaray)
+# Şehir Tanıtımı 
 
 ## proje açıklaması
-Aksarayın seçtiğiniz ilçesinin istatistiklerini tanıtan bir web sitesidir.
+Seçtiğiniz şehirin istatistiklerini tanıtan bir web sitesidir.
 
 ## hedef kullanıcılar
 Herkes
